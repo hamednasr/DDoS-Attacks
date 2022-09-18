@@ -1,1 +1,4 @@
 # DDoS-Attacks
+   Today,  Distributed Denial of Services (DDoS) attacks are one of the most challenging problems which have caused numerous problems for computers and servers throughout the Internet world.
+
+   In this project, our goal is evaluating the performance of prestige machine learning-based classifiers to predict DDoS attacks in terms of classification metrics, training, and prediction.  The classifiers used in the project which are k-nearest neighbors (k-NN), support vector machine (SVM), Logistic Regression, Random Forest, AdaBoost, Multilayer Perceptron (MLB), Convolutional Neural Network (CNN), and Gaussian Naïve Bayesian. The performance of each classifier will be evaluated and compared in two cases with different perspectives: evaluating models from the best features of the training set, and considering all features. 
